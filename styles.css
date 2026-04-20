@@ -1,0 +1,110 @@
+body {
+    color: white;
+    background-image: url(./recipes-images/new-bg.jpeg) ;
+    background-size: cover;
+
+}
+
+.title{
+    height: auto;
+    width: 600px;
+    background-color: #895129;
+    padding: 5px;
+    margin: auto 600px;
+    text-align: center;
+    box-sizing: border-box;
+    margin-top:150px ;
+    opacity: .80;
+}
+
+.list{
+    height: auto;
+    width: 600px;
+    background-color: #895129;
+    margin: auto 600px;
+    padding: auto 30px;
+    text-align: center;
+    display: inline-block;
+    box-sizing: border-box;
+    opacity: .8;
+}
+
+a{
+    color: white;
+}
+
+a:hover{
+    color: black;
+}
+
+ul {
+    list-style: disc;
+    list-style-position: inside;
+    text-indent: -10px;
+    padding-right: 50px
+}
+
+.title.recipe1{
+    margin: 30px auto;
+}
+
+button{
+    height: 50px;
+    width: 100px;
+    background-color: #895129;
+    font-size: 20px;
+    margin: auto 30px;
+}
+
+
+.image{
+    margin: 0px 598px;
+    border: 10px solid #895129 ;
+}
+
+.img-source{
+    width: fit-content;
+    background-color: #895129;
+    margin: 0px 600px 50px 600px;
+    opacity: .8;
+    padding: 0px 10px;
+}
+
+.description{
+    width: 1000px;
+    background-color: #895129;
+    margin: auto 30px;
+    padding: 10px 50px 10px 10px;
+}
+.ingridients{
+    width: 1000px;
+    background-color: #895129;
+    margin: auto 30px;
+    padding: 10px 50px 10px 10px;
+}
+
+.steps{
+    width: 1000px;
+    background-color: #895129;
+    margin: auto 30px;
+    padding: 10px 50px 10px 10px;
+}
+
+.source{
+    width: 1000px;
+    background-color: #895129;
+    margin: auto 30px;
+    padding: 10px 50px 10px 10px;  
+}
+
+.page{
+    width: 100px;
+    background-color: #895129;
+    border: 3px solid black;
+    margin: 5% 50%;
+    text-align: center;
+    padding: 10px;
+    font-size: 15px;
+    box-sizing: border-box;
+
+}
